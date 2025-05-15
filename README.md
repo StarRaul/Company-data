@@ -1,10 +1,11 @@
 # Company-data
-(University project)
+*(University project)*
 
 This project represents a company's data about their workers.
-Everything after compile will be written inside a .txt file
+Everything after compile will be written inside a **.txt** file.
+Every bit of code should be written in C++ and with as little libraries used.
 
-## To do:
+## Things I would like to add/change:
 - Have a random ID given to every worker
 - Have a console interface where instead of showing everything at once about the company,
   I could write an ID and then show me their full name so I can confirm who I chose,
